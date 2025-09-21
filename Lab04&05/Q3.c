@@ -16,6 +16,7 @@ int main() {
                  break;
 
             }
+            break;
         case 'M':
             switch (type) {
             case 'R':
@@ -26,5 +27,6 @@ int main() {
                     break;
 
             }
+            break;
     }
 }
